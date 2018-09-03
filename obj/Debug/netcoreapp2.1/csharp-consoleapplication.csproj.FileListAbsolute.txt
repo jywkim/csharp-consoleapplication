@@ -1,0 +1,11 @@
+/home/jonathan/Desktop/jywkim/csharp-consoleapplication/bin/Debug/netcoreapp2.1/csharp-consoleapplication.deps.json
+/home/jonathan/Desktop/jywkim/csharp-consoleapplication/bin/Debug/netcoreapp2.1/csharp-consoleapplication.runtimeconfig.json
+/home/jonathan/Desktop/jywkim/csharp-consoleapplication/bin/Debug/netcoreapp2.1/csharp-consoleapplication.runtimeconfig.dev.json
+/home/jonathan/Desktop/jywkim/csharp-consoleapplication/bin/Debug/netcoreapp2.1/csharp-consoleapplication.dll
+/home/jonathan/Desktop/jywkim/csharp-consoleapplication/bin/Debug/netcoreapp2.1/csharp-consoleapplication.pdb
+/home/jonathan/Desktop/jywkim/csharp-consoleapplication/obj/Debug/netcoreapp2.1/csharp-consoleapplication.csprojAssemblyReference.cache
+/home/jonathan/Desktop/jywkim/csharp-consoleapplication/obj/Debug/netcoreapp2.1/csharp-consoleapplication.csproj.CoreCompileInputs.cache
+/home/jonathan/Desktop/jywkim/csharp-consoleapplication/obj/Debug/netcoreapp2.1/csharp-consoleapplication.AssemblyInfoInputs.cache
+/home/jonathan/Desktop/jywkim/csharp-consoleapplication/obj/Debug/netcoreapp2.1/csharp-consoleapplication.AssemblyInfo.cs
+/home/jonathan/Desktop/jywkim/csharp-consoleapplication/obj/Debug/netcoreapp2.1/csharp-consoleapplication.dll
+/home/jonathan/Desktop/jywkim/csharp-consoleapplication/obj/Debug/netcoreapp2.1/csharp-consoleapplication.pdb
