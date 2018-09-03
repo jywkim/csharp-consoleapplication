@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace csharp_consoleapplication
+namespace TeleprompterConsole
 {
     class Program
     {
