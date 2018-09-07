@@ -9,18 +9,19 @@ namespace TeleprompterConsole
     {
         static void Main(string[] args)
         {
-            var lines = ReadFrom("sampleQuotes.txt");
-            foreach (var line in lines)
+            ShowTeleprompter().Wait();
+        }
+
+        private static async Task ShowTeleprompter()
+        {
+            var words = ReadFrom("sampleQuotes.txt");
+            foreach (var word in words)
             {
-              Console.Write(line);
-              if (!string.IsNullOrWhiteSpace(line))
-              {
-                  var pause = Task.Delay(200);
-                  // Synchronously waiting on a task is an
-                  // anti-pattern. This will get fixed in later
-                  // steps.
-                  pause.Wait();
-              }
+                Console.Write(word);
+                if (!string.IsNullOrWhiteSpace(word))
+                {
+                    await Task.Delay(200);
+                }
             }
         }
 
